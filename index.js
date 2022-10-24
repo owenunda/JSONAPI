@@ -2,6 +2,7 @@
 
 const path = require("path")
 const http = require('http');
+// sirve para  crear un servidor y usar sus metodos pertinentes
 const fs = require('fs/promises');
 
 
